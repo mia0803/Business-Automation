@@ -1,11 +1,11 @@
-# Business-automation
+# Business Automation
 
 
 * Period: Oct.2019 - Nov.2019
 * Purpose:  Business process automation program development
 * Number of developers: 1
 * Requirements: Python program linking with Excel and PDF software
-* Assigned tasks: File reading, Caculation, Data insertion, Data extraction, Format conversion, File integration, Listing up, Auto emailing 
+* Assigned tasks: File reading, Calculation, Data insertion, Data extraction, Format conversion, File integration, Listing up, Auto emailing 
 * Outcomes: 80% work time reduction, High work efficiency and accuracy
 
 
